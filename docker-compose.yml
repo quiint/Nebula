@@ -7,4 +7,4 @@ services:
     restart: unless-stopped
     ports:
       # DO NOT CHANGE 3000!
-      - your port here:3000
+      - 9163:3000
